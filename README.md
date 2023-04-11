@@ -6,16 +6,16 @@
 
 ## Website Preview
 ### Home Page
-<img src="main.png" width="800">![image](https://user-images.githubusercontent.com/130201793/231193674-2a876e74-961a-41e0-bae1-0fa1e53bf90c.png)
+![image](https://user-images.githubusercontent.com/130201793/231194931-1481baac-2ebe-4621-abe0-08b2cbdc3cd1.png)
 
 ### Customer List
-<img src="customer_list.png" width="800">
+![image](https://user-images.githubusercontent.com/130201793/231195743-0e27b4fc-1d1a-4007-9c5e-f042d5eaab61.png)
 
 ### Sending Procedure
-<img src="send.png" width="600">
+![image](https://user-images.githubusercontent.com/130201793/231195112-1c569d09-649b-4e87-9ad0-c88725c09dfd.png)
 
 ### Transaction History
-<img src="detail.png" width="600">
+![image](https://user-images.githubusercontent.com/130201793/231195250-02f7b614-8d21-4936-a874-c80f0cf0c6d4.png)
   
 
 ## Features 📋
